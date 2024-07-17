@@ -1,1 +1,1 @@
-# sushi-landing
+# Sushi Landing Page
